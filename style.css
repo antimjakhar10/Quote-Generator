@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    height: 100vh;
+  }
+  .quotebox {
+    padding: 20px;
+    border:  solid black 1px;
+    border-radius: 10px;
+    box-shadow: 2px 4px 6px 8px rgba(0, 0, 0, 0.1);
+    max-width: 700px;
+    margin: 200px auto;
+  }
+  .quote {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #5b08ec;
+  }
+  button {
+    font-family: Arial, sans-serif;
+    background: #b65a9e;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  button:hover {
+    background: #94317a;
+  }
